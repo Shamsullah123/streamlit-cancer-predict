@@ -1,0 +1,28 @@
+.st-emotion-cache-j5r0tf {
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color: #7E99AB;
+    color: white;
+}
+
+.diagnosis {
+    color: white;
+    padding: 0.2em 0.5rem;
+    border-radius: 0.5em;
+}
+
+.diagnosis.benign{
+    background-color: green;
+}
+
+.diagnosis.malicius {
+    background-color: red;
+}
+
+.st-emotion-cache-10oheav{
+    padding: 0rem 1rem;
+
+}
+.st-emotion-cache-z5fcl4 {
+    padding: 0rem 1rem;
+}
